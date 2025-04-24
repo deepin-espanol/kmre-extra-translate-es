@@ -1,0 +1,14 @@
+Source: kmre-extra-translate-files
+Section: utils
+Priority: optional
+Maintainer: krafairus <krafairuspc@gmail.com>
+Uploaders:
+  krafairus <krafairuspc@gmail.com>
+Build-Depends: debhelper , debhelper-compat (= 13)
+Standards-Version: 4.5.0
+Homepage: https://github.com/deepin-espanol/kmre-extra-translate-files
+
+Package: kmre-extra-translate-files
+Architecture: all
+Depends: ${misc:Depends}, xdg-utils
+Description: Extra translation package for kmre and its subset of programs.
