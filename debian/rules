@@ -18,7 +18,7 @@ clean:
 	rm -f build-stamp
 	dh_clean
 
-DESTDIR = $(CURDIR)/debian/kmre-extra-translate-files
+DESTDIR = $(CURDIR)/debian/kmre-extra-translate-es
 
 install: build
 	dh_testdir
@@ -26,7 +26,7 @@ install: build
 	dh_prep
 	dh_installdirs
 
-	# Add here commands to install the package into kmre-extra-translate-files.
+	# Add here commands to install the package into kmre-extra-translate-es.
 	install -d $(DESTDIR)/usr/share/kylin-kmre-window/translations
 	install -m 644 data/kylin-kmre-window_es_ES.qm $(DESTDIR)/usr/share/kylin-kmre-window/translations
 	install -d $(DESTDIR)/usr/share/kylin-kmre-settings/translations

@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: kmre-extra-translate-files
+Upstream-Name: kmre-extra-translate-es
 Upstream-Contact: krafairus <krafairuspc@gmail.com>
-Source: https://github.com/deepin-espanol/kmre-extra-translate-files
+Source: https://github.com/deepin-espanol/kmre-extra-translate-es
 
 Files: *
 Copyright: 2023-2025 krafairus <krafairuspc@gmail.com>

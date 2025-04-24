@@ -12,5 +12,5 @@ dist
 .tar.gz
 *.deb
 .asc
-debian/python-venv-gui
+debian/kmre-extra-translate-es
 debian/files
