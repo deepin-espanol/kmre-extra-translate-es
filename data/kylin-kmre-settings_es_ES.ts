@@ -6,7 +6,7 @@
     <message>
         <location filename="../addgamewidget.cpp" line="132"/>
         <source>App supporting game keys</source>
-        <translation>App soporta teclas de juego</translation>
+        <translation>La app soporta mapeo de teclas</translation>
     </message>
     <message>
         <location filename="../addgamewidget.cpp" line="105"/>
@@ -38,7 +38,7 @@
     <message>
         <location filename="../addgamewidget.cpp" line="172"/>
         <source>Add successfully, restart the Android application set to take effect!</source>
-        <translation>¡Añadido correctamente! Reinicie la app Android para aplicar cambios.</translation>
+        <translation>¡Añadido correctamente, Reinicie la app Android para aplicar cambios!</translation>
     </message>
     <message>
         <location filename="../addgamewidget.cpp" line="172"/>
@@ -75,27 +75,27 @@
     <message>
         <location filename="../advancedwidget.cpp" line="68"/>
         <source>Scroll Sensitivity</source>
-        <translation>Sensibilidad de rueda</translation>
+        <translation>Sensibilidad de desplazamiento</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="70"/>
         <source>Slow</source>
-        <translation>Lento</translation>
+        <translation>Baja</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="71"/>
         <source>Fast</source>
-        <translation>Rápido</translation>
+        <translation>Rapida</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="82"/>
         <source>Default</source>
-        <translation>Predeterminado</translation>
+        <translation>Predefinido</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="98"/>
         <source>Close Kmre</source>
-        <translation>Cerrar KMRE</translation>
+        <translation>Apagar entorno KMRE</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="108"/>
@@ -106,17 +106,17 @@
     <message>
         <location filename="../advancedwidget.cpp" line="117"/>
         <source>Clear User Data</source>
-        <translation>Borrar datos de usuario</translation>
+        <translation>Borrar datos del usuario</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="164"/>
         <source>Are you sure to close kmre environment?</source>
-        <translation>¿Seguro que quieres cerrar KMRE?</translation>
+        <translation>¿Estas seguro de que quieres cerrar KMRE?</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="174"/>
         <source>Are you sure to uninstall kmre environment?</source>
-        <translation>¿Seguro que quieres desinstalar KMRE?</translation>
+        <translation>¿Estas seguro de que quieres desinstalar KMRE?</translation>
     </message>
     <message>
         <location filename="../advancedwidget.cpp" line="193"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../advancedwidget.cpp" line="242"/>
         <source>Error occured! Uninstall kmre failed! </source>
-        <translation>¡Error! Falló la desinstalación de KMRE</translation>
+        <translation>¡Error, Falló la desinstalación de KMRE! </translation>
     </message>
 </context>
 <context>
@@ -141,7 +141,7 @@
         <location filename="../appmultiplierwidget.cpp" line="127"/>
         <location filename="../appmultiplierwidget.cpp" line="129"/>
         <source>App Multiplier</source>
-        <translation>Ventana paralela</translation>
+        <translation>Apps en paralelo</translation>
     </message>
     <message>
         <location filename="../appmultiplierwidget.cpp" line="87"/>
@@ -151,12 +151,12 @@
     <message>
         <location filename="../appmultiplierwidget.cpp" line="94"/>
         <source>App Multiplier displays apps in dual windows. Not all apps are supported.</source>
-        <translation>Ventana paralela muestra apps en dos ventanas. No todas son compatibles.</translation>
+        <translation>Permite tener dos apps juntas en una sola ventana. No todas son compatibles.</translation>
     </message>
     <message>
         <location filename="../appmultiplierwidget.cpp" line="100"/>
         <source>No App is installed which supporting App Multiplier.</source>
-        <translation>No hay apps instaladas compatibles.</translation>
+        <translation>No hay apps instaladas que sean compatibles.</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@
     <message>
         <location filename="../appsettingspanel.cpp" line="48"/>
         <source>Tray</source>
-        <translation>Band. sistema</translation>
+        <translation>Bandeja del sistema</translation>
     </message>
     <message>
         <location filename="../appsettingspanel.cpp" line="58"/>
@@ -181,12 +181,12 @@
     <message>
         <location filename="../appwidget.cpp" line="57"/>
         <source>Set the application displayed in the tray area</source>
-        <translation>Mostrar app en bandeja del sistema</translation>
+        <translation>Mostrar app en la bandeja del sistema</translation>
     </message>
     <message>
         <location filename="../appwidget.cpp" line="60"/>
         <source>Set the application booted with full screen</source>
-        <translation>Iniciar app en pantalla completa</translation>
+        <translation>Iniciar app en modo pantalla completa</translation>
     </message>
     <message>
         <source>Set the application cloning</source>
@@ -246,7 +246,7 @@
     <message>
         <location filename="../cleaneritem.cpp" line="117"/>
         <source>After the image is deleted, KMRE will no longer be able to switch to the image. Are you sure you want to perform this operation?</source>
-        <translation>¿Eliminar imagen? KMRE no podrá usarla después.</translation>
+        <translation>¿Decea eliminar la imagen android? KMRE no podrá usarla después de ser eliminada, tenga precausion por favor.</translation>
     </message>
     <message>
         <location filename="../cleaneritem.cpp" line="117"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="../cleanerwidget.cpp" line="352"/>
         <source>After all images are deleted, KMRE will no longer be able to switch to the image. Are you sure you want to perform this operation?</source>
-        <translation>¿Eliminar todas? KMRE no podrá usarlas después.</translation>
+        <translation>¿Eliminar todas las imagenes android? KMRE no podrá usarlas después de ser eliminadas, tenga precausion.</translation>
     </message>
     <message>
         <location filename="../cleanerwidget.cpp" line="352"/>
@@ -323,7 +323,7 @@
     <message>
         <location filename="../cleanerwidget.cpp" line="132"/>
         <source>No idle image</source>
-        <translation>No hay imágenes</translation>
+        <translation>No hay imágenes android</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -366,12 +366,12 @@
     <message>
         <location filename="../displaymodewidget.cpp" line="87"/>
         <source>Performance</source>
-        <translation>Rendimiento</translation>
+        <translation>Rendimiento </translation>
     </message>
     <message>
         <location filename="../displaymodewidget.cpp" line="87"/>
         <source>Compatibility</source>
-        <translation>Compatibilidad</translation>
+        <translation>Compatibilidad </translation>
     </message>
     <message>
         <location filename="../displaymodewidget.cpp" line="88"/>
@@ -397,7 +397,7 @@
     <message>
         <location filename="../displaymodewidget.cpp" line="133"/>
         <source>Display mode</source>
-        <translation>Modo pantalla</translation>
+        <translation>Modo de pantalla</translation>
     </message>
     <message>
         <location filename="../displaymodewidget.cpp" line="108"/>
@@ -603,12 +603,12 @@
     <message>
         <location filename="../generalsettingwidget.cpp" line="123"/>
         <source>KMRE Auto Start</source>
-        <translation>Inicio automático</translation>
+        <translation>Iniciar automáticamente KMRE</translation>
     </message>
     <message>
         <location filename="../generalsettingwidget.cpp" line="127"/>
         <source>KMRE starts automatically upon startup</source>
-        <translation>Iniciar KMRE automáticamente</translation>
+        <translation>Iniciar KMRE automáticamente al iniciar el sistema</translation>
     </message>
     <message>
         <source>Translation Switch</source>
@@ -621,12 +621,12 @@
     <message>
         <location filename="../generalsettingwidget.cpp" line="111"/>
         <source>Camera device:</source>
-        <translation>Dispositivo:</translation>
+        <translation>Dispositivo de camara:</translation>
     </message>
     <message>
         <location filename="../generalsettingwidget.cpp" line="404"/>
         <source>No camera detected</source>
-        <translation>No se detectó cámara</translation>
+        <translation>No se detectó la cámara</translation>
     </message>
     <message>
         <location filename="../generalsettingwidget.cpp" line="130"/>
@@ -647,7 +647,7 @@
         <location filename="../generalsettingwidget.cpp" line="136"/>
         <location filename="../generalsettingwidget.cpp" line="137"/>
         <source>mode</source>
-        <translation>modo</translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <location filename="../generalsettingwidget.cpp" line="158"/>
@@ -659,12 +659,12 @@
     <message>
         <location filename="../generalsettingwidget.cpp" line="163"/>
         <source>Network segment</source>
-        <translation>Segmento red</translation>
+        <translation>Segmento de red</translation>
     </message>
     <message>
         <location filename="../generalsettingwidget.cpp" line="164"/>
         <source>Subnet mask</source>
-        <translation>Máscara subred</translation>
+        <translation>Máscara de subred</translation>
     </message>
     <message>
         <location filename="../generalsettingwidget.cpp" line="169"/>
@@ -980,7 +980,7 @@
         <location filename="../phoneinfowidget.cpp" line="267"/>
         <location filename="../phoneinfowidget.cpp" line="268"/>
         <source>Phone model</source>
-        <translation>Modelo teléfono</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="../phoneinfowidget.cpp" line="68"/>
@@ -990,7 +990,7 @@
     <message>
         <location filename="../phoneinfowidget.cpp" line="69"/>
         <source>preset model</source>
-        <translation>Modelo predef.</translation>
+        <translation>Modelo predeterminado</translation>
     </message>
     <message>
         <location filename="../phoneinfowidget.cpp" line="70"/>
@@ -1061,12 +1061,12 @@
         <location filename="../phoneinfowidget.cpp" line="150"/>
         <location filename="../phoneinfowidget.cpp" line="152"/>
         <source>PhoneInfo Setting</source>
-        <translation>Config. teléfono</translation>
+        <translation>Ajustar identificador</translation>
     </message>
     <message>
         <location filename="../phoneinfowidget.cpp" line="239"/>
         <source>The Settings take effect after the environment is restarted</source>
-        <translation>Reinicie entorno para aplicar</translation>
+        <translation>Reinicie el entorno para aplicar los cambios por favor</translation>
     </message>
     <message>
         <source>Modify successfully!Restart the environment to take effect.</source>
@@ -1181,7 +1181,7 @@
         <location filename="../settingsframe.cpp" line="115"/>
         <location filename="../settingsframe.cpp" line="145"/>
         <source>KMRE-Preference</source>
-        <translation>Preferencias KMRE</translation>
+        <translation>KMRE-Preference</translation>
     </message>
     <message>
         <location filename="../settingsframe.cpp" line="154"/>
@@ -1223,7 +1223,7 @@
         <location filename="../settingsframe.cpp" line="367"/>
         <location filename="../settingsframe.cpp" line="468"/>
         <source>Game Setting</source>
-        <translation>Ajustes juego</translation>
+        <translation>Ajustes de juego</translation>
     </message>
     <message>
         <location filename="../settingsframe.cpp" line="472"/>
@@ -1259,7 +1259,7 @@
         <location filename="../settingsframe.cpp" line="490"/>
         <location filename="../settingsframe.cpp" line="562"/>
         <source>AppMultiplier</source>
-        <translation>Ventana paralela</translation>
+        <translation>Apps paralelas</translation>
     </message>
     <message>
         <source>Tray</source>
@@ -1295,7 +1295,7 @@
         <location filename="../settingsframe.cpp" line="496"/>
         <location filename="../settingsframe.cpp" line="567"/>
         <source>AppSettings</source>
-        <translation>Ajustes app</translation>
+        <translation>Ajustes de las apps</translation>
     </message>
     <message>
         <location filename="../settingsframe.cpp" line="372"/>
@@ -1326,7 +1326,7 @@
     <message>
         <location filename="../settingsframe.cpp" line="436"/>
         <source>Current manager vesion does not support developer mode.</source>
-        <translation>Esta versión no soporta modo desarrollador.</translation>
+        <translation>Esta versión no soporta el modo desarrollador.</translation>
     </message>
     <message>
         <location filename="../settingsframe.cpp" line="610"/>
@@ -1341,7 +1341,7 @@
     <message>
         <location filename="../settingsframe.cpp" line="649"/>
         <source>Restarting the environment failed!</source>
-        <translation>¡Falló al reiniciar entorno!</translation>
+        <translation>¡Falló al reiniciar el entorno!</translation>
     </message>
 </context>
 <context>

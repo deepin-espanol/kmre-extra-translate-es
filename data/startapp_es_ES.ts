@@ -25,7 +25,7 @@
     <message>
         <location filename="../dialog.cpp" line="247"/>
         <source>The kernel does not support Kmre</source>
-        <translation>El kernel no soporta KMRE</translation>
+        <translation>El kernel usado no soporta KMRE</translation>
     </message>
     <message>
         <location filename="../dialog.cpp" line="250"/>
@@ -35,12 +35,12 @@
     <message>
         <location filename="../dialog.cpp" line="253"/>
         <source>Kmre is corrupted, please check if other Android compatible env are installed</source>
-        <translation>KMRE esta dañado, por favor verifique otros entornos Android instalados</translation>
+        <translation>KMRE esta corrupto, por favor pruebe otros entornos Android instalados</translation>
     </message>
     <message>
         <location filename="../dialog.cpp" line="256"/>
         <source>Please do not use root</source>
-        <translation>No use root</translation>
+        <translation>No debe usar root</translation>
     </message>
     <message>
         <location filename="../dialog.cpp" line="259"/>
@@ -50,12 +50,12 @@
     <message>
         <location filename="../dialog.cpp" line="262"/>
         <source>Kmre only supports Kylin OS for the time being</source>
-        <translation>KMRE solo soporta Kylin OS actualmente</translation>
+        <translation>KMRE solo soporta Kylin OS y Deepin Linux actualmente</translation>
     </message>
     <message>
         <location filename="../dialog.cpp" line="265"/>
         <source>Kmre does not support the current CPU temporarily</source>
-        <translation>CPU no soportado temporalmente</translation>
+        <translation>CPU no soportado temporalmente por KMRE</translation>
     </message>
     <message>
         <location filename="../dialog.cpp" line="268"/>

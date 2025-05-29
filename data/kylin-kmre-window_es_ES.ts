@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Add successfully, restart the Android application set to take effect!</source>
-        <translation>¡Añadido correctamente! Reinicia la app para aplicar cambios.</translation>
+        <translation>¡Añadido correctamente, Reinicia la app para aplicar los cambios¡</translation>
     </message>
     <message>
         <source>Game name</source>
@@ -214,7 +214,7 @@
     <message>
         <location filename="../display/displaymanager/displaymanager.cpp" line="489"/>
         <source>Screen rotation, please reset button！</source>
-        <translation>Rotación de pantalla, reconfigurar botones</translation>
+        <translation>!Rotación de pantalla, reconfigurar botones¡</translation>
     </message>
 </context>
 <context>
@@ -325,7 +325,7 @@
     <message>
         <location filename="../gamekey/gamekeymanager.cpp" line="680"/>
         <source>Don&apos;t support game key under multi display mode! Please disable multi display mode of this app and restart!</source>
-        <translation>¡Teclas no compatibles en modo multi-pantalla! Desactívelo y reinicie.</translation>
+        <translation>¡No se pueden mapear botones en el modo multipantalla, Desactiva el modo para esta aplicación y reiniciala¡</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -464,7 +464,7 @@
     <message>
         <location filename="../gamekey/joystickmanager.cpp" line="75"/>
         <source>Don&apos;t support game key under multi display mode! Please disable multi display mode of this app and restart!</source>
-        <translation>¡Teclas no compatibles en modo multi-pantalla! Desactívelo y reinicie.</translation>
+        <translation>¡No se pueden mapear botones en el modo multipantalla, Desactiva el modo para esta aplicación y reiniciala¡</translation>
     </message>
     <message>
         <location filename="../gamekey/joystickmanager.cpp" line="249"/>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>Separation app is running, Please close it first.</source>
-        <translation>Cierre la app de separación primero</translation>
+        <translation>Cierre la app de separación primero.</translation>
     </message>
     <message>
         <location filename="../window/kmrewindow.cpp" line="585"/>
@@ -679,7 +679,7 @@
     <message>
         <location filename="../window/kmrewindow.cpp" line="650"/>
         <source>This application can only be used after it is added to the white list.                 For the method of adding white list, see &quot;user manual - game keyboard white list setting&quot;</source>
-        <translation>Esta app requiere estar en lista blanca. Consulte el manual.</translation>
+        <translation>Esta app requiere estar en lista blanca. Para saber cómo añadirla, consulta el &quot;Manual del usuario - Configuración de la lista blanca del teclado para juegos&quot;</translation>
     </message>
     <message>
         <location filename="../window/kmrewindow.cpp" line="965"/>
@@ -695,7 +695,7 @@
     <message>
         <location filename="../window/kmrewindow.cpp" line="970"/>
         <source>Share failed! File size is exceed size limition(100MB)!</source>
-        <translation>¡Error al compartir! (tamaño excede 100MB)</translation>
+        <translation>¡Error al compartir! (el tamaño excede los 100MB)!</translation>
     </message>
     <message>
         <location filename="../window/kmrewindow.cpp" line="1167"/>
@@ -705,7 +705,7 @@
     <message>
         <location filename="../window/kmrewindow.cpp" line="1170"/>
         <source>Mouse lock is disabled, press F2 to enable.</source>
-        <translation>Bloqueo desactivado. Presione F2 para activar</translation>
+        <translation>Bloqueo de raton apagado. F2 para activar.</translation>
     </message>
 </context>
 <context>
@@ -820,7 +820,7 @@
     </message>
     <message>
         <source>ToTop</source>
-        <translation>Arriba</translation>
+        <translation>Fijar</translation>
     </message>
 </context>
 <context>
@@ -872,7 +872,7 @@
     <message>
         <location filename="../utilitys/notification.cpp" line="157"/>
         <source>You have new news</source>
-        <translation>Tiene nuevos mensajes</translation>
+        <translation>Tienes nuevos mensajes</translation>
     </message>
     <message>
         <location filename="../utilitys/notification.cpp" line="162"/>
@@ -956,7 +956,7 @@
     <message>
         <location filename="../display/displaymanager/widgets/recordscreenwidget.cpp" line="584"/>
         <source>Can&apos;t find any supported audio codecs! will disable audio record!</source>
-        <translation>¡No se encontraron códecs de audio! Se desactivará el audio.</translation>
+        <translation>¡No ahi codecs de audio, Se desactivo la grabacion de audio!</translation>
     </message>
     <message>
         <source>Saved video</source>
@@ -1096,13 +1096,13 @@
     <message>
         <location filename="../gamekey/settingspanel.cpp" line="47"/>
         <source>Game key</source>
-        <translation>Tecla de juego</translation>
+        <translation>Teclas de juego</translation>
     </message>
     <message>
         <location filename="../gamekey/settingspanel.cpp" line="48"/>
         <location filename="../gamekey/settingspanel.cpp" line="60"/>
         <source>Click the button to create a custom game button</source>
-        <translation>Clic para crear botón personalizado</translation>
+        <translation>Clic para crear un botón personalizado</translation>
     </message>
     <message>
         <location filename="../gamekey/settingspanel.cpp" line="59"/>
@@ -1112,7 +1112,7 @@
     <message>
         <location filename="../gamekey/settingspanel.cpp" line="77"/>
         <source>transparency</source>
-        <translation>transparencia</translation>
+        <translation>Transparencia</translation>
     </message>
     <message>
         <location filename="../gamekey/settingspanel.cpp" line="81"/>
@@ -1197,12 +1197,12 @@
     <message>
         <location filename="../display/displaymanager/widgets/titlebar.cpp" line="213"/>
         <source>Top</source>
-        <translation>Arriba</translation>
+        <translation>Fijar</translation>
     </message>
     <message>
         <location filename="../display/displaymanager/widgets/titlebar.cpp" line="218"/>
         <source>Cancel Top</source>
-        <translation>Cancelar arriba</translation>
+        <translation>Desfijar</translation>
     </message>
     <message>
         <location filename="../display/displaymanager/widgets/titlebar.cpp" line="224"/>
@@ -1232,12 +1232,12 @@
     </message>
     <message>
         <source>Game Key</source>
-        <translation>Tecla de juego</translation>
+        <translation>Teclas de juego</translation>
     </message>
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="87"/>
         <source>Joystick</source>
-        <translation>Joystick</translation>
+        <translation>Mapear botones</translation>
     </message>
     <message>
         <source>Screenshot Shared</source>
@@ -1256,12 +1256,12 @@
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="108"/>
         <source>Open Storage</source>
-        <translation>Abrir almacenamiento</translation>
+        <translation>Ver almacenamiento</translation>
     </message>
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="167"/>
         <source>AppConfig</source>
-        <translation>Configuración de app</translation>
+        <translation>Configurar App</translation>
     </message>
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="174"/>
@@ -1271,7 +1271,7 @@
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="184"/>
         <source>FullScreenBoot</source>
-        <translation>Inicio en pantalla completa</translation>
+        <translation>Abrir app en pantalla completa</translation>
     </message>
     <message>
         <source>AppSeparation</source>
@@ -1284,7 +1284,7 @@
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="138"/>
         <source>Shake</source>
-        <translation>Agitar</translation>
+        <translation>Agitar app</translation>
     </message>
     <message>
         <source>virtualgps</source>
@@ -1293,7 +1293,7 @@
     <message>
         <location filename="../display/displaymanager/widgets/menu.cpp" line="148"/>
         <source>gravity_sensor</source>
-        <translation>Sensor de gravedad</translation>
+        <translation>gravity_sensor</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -1301,11 +1301,11 @@
     </message>
     <message>
         <source>Doc</source>
-        <translation>Documentos</translation>
+        <translation>Docs</translation>
     </message>
     <message>
         <source>Open MM Download</source>
-        <translation>Abrir descargas MM</translation>
+        <translation>Abrir MM descargas</translation>
     </message>
     <message>
         <source>Open QQ Files</source>
@@ -1313,11 +1313,11 @@
     </message>
     <message>
         <source>StayTop</source>
-        <translation>Mantener arriba</translation>
+        <translation>Fijar</translation>
     </message>
     <message>
         <source>ToTop</source>
-        <translation>Arriba</translation>
+        <translation>Desfijar</translation>
     </message>
     <message>
         <source>Lock screen</source>
@@ -1348,11 +1348,11 @@
     </message>
     <message>
         <source>Clean up temporary files of APK installation package</source>
-        <translation>Limpiar archivos temporales de APK</translation>
+        <translation>Limpiar archivos temporales de paquetes APK</translation>
     </message>
     <message>
         <source>Close Kmre</source>
-        <translation>Cerrar KMRE</translation>
+        <translation>Apagar entorno KMRE</translation>
     </message>
     <message>
         <source>Clean up idle Android images</source>
@@ -1374,7 +1374,7 @@
     <message>
         <location filename="../utilitys/tray.cpp" line="54"/>
         <source>Quit App</source>
-        <translation>Salir de app</translation>
+        <translation>Cerrar app</translation>
     </message>
 </context>
 <context>
@@ -1392,15 +1392,15 @@
     <message>
         <location filename="../display/displaymanager/widgets/warningnotice.cpp" line="58"/>
         <source>close</source>
-        <translation>cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Playing with KMRE may result in a ban</source>
-        <translation>Jugar con KMRE puede causar prohibición</translation>
+        <translation>Jugar con KMRE puede causar baneos</translation>
     </message>
     <message>
         <source>Payment is risky and use with caution</source>
-        <translation>Pagos son riesgosos, use con precaución</translation>
+        <translation>Realizar pagos es riesgoso, tenga cuidado</translation>
     </message>
 </context>
 <context>
@@ -1415,7 +1415,7 @@
     </message>
     <message>
         <source>This application can only be used after it is added to the white list. For the method of adding white list, see &quot;user manual - game keyboard white list setting&quot;</source>
-        <translation>Esta app requiere estar en lista blanca. Consulte el manual.</translation>
+        <translation>Esta app requiere estar en lista blanca. Para saber cómo añadirla, consulta el &quot;Manual del usuario - Configuración de la lista blanca del teclado para juegos&quot;</translation>
     </message>
     <message>
         <source>Close Kmre?</source>
@@ -1439,7 +1439,7 @@
     </message>
     <message>
         <source>This application can only be used after it is added to the white list.                 For the method of adding white list, see &quot;user manual - game keyboard white list setting&quot;</source>
-        <translation>Esta app requiere estar en lista blanca. Consulte el manual.</translation>
+        <translation>Esta app requiere estar en lista blanca. Para saber cómo añadirla, consulta el &quot;Manual del usuario - Configuración de la lista blanca del teclado para juegos&quot;</translation>
     </message>
     <message>
         <source>Open App</source>
@@ -1455,7 +1455,7 @@
     </message>
     <message>
         <source>Share failed! File size is exceed size limition(100MB)!</source>
-        <translation>¡Error al compartir! (tamaño excede 100MB)</translation>
+        <translation>¡Error al compartir (el tamaño excede los 100MB)!</translation>
     </message>
     <message>
         <source>Open</source>
